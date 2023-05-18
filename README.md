@@ -1,4 +1,4 @@
-# ncc-telcos-harmonized-codes
+# 🇳🇬 NCC Telcos Harmonized Codes
 List of NCC Harmonized Short Codes For All Mobile Networks In Nigeria
 
 All mobile network operators in Nigeria have been assigned harmonized short codes by the Nigerian Communications Commission (NCC) for their subscribers' use. [Source [Punch](https://punchng.com/ncc-directs-telcos-to-implement-harmonised-short-codes/)]  These short codes offer a convenient and fast means for subscribers to access various services like recharging airtime, checking account balances, and subscribing to data plans across all networks.
